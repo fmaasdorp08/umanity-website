@@ -12,7 +12,7 @@ Secondary CTA: Support Our Mission
 
 About
 uManity exists to restore dignity where life has become heavy. We support families, empower women, mentor youth, and create spaces where people can feel safe, seen, and valued again.
-We are not here to perform care. We are here to embody it — with warmth, consistency, and practical action that communities can feel immediately.
+We are not here to perform care. We are here to embody it — with warmth, consistency, and practical action that communities can feel immediately.And this my friend is how you give back. 
 
 Impact Pillars
 Hope & Rebirth: Creating space for new beginnings, renewed courage, and practical restoration.
