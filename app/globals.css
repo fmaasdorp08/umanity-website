@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: light; }
+html { scroll-behavior: smooth; }
+body { font-family: var(--font-sans), system-ui, sans-serif; background: #f6f1e8; }
+::selection { background: rgba(210, 183, 123, 0.35); }
+@layer base { h1, h2, h3, h4, .font-serif { font-family: var(--font-serif), Georgia, serif; } }

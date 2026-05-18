@@ -1,0 +1,1 @@
+Place the provided official uManity logo here as umanity-logo.jpg, and add licensed imagery in this folder.
